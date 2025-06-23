@@ -161,7 +161,7 @@
     window.onload = typeWriter;
   </script>
 </body>
-</html><!DOCTYPE html>
+</html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -182,5 +182,4 @@
   <p></p>
   <!-- Project -->
   <script src="main.js"></script>
-</body>
-</html>
+
