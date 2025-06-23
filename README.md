@@ -176,7 +176,6 @@
   <!-- Custom Styles -->
   <link rel="stylesheet" href="style.css">
 </head>
-</body>
 </html>
   <p></p>
   <!-- Project -->
