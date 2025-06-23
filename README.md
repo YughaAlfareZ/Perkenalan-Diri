@@ -178,7 +178,6 @@
 </head>
 </body>
 </html>
-<body>
   <p></p>
   <!-- Project -->
   <script src="main.js"></script>
