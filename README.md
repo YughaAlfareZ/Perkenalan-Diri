@@ -131,11 +131,11 @@
     <p>Halo! Nama aku <strong>Yugha Aditya Alfarezi</strong>. Aku programmer pemula, Aku suka belajar hal baru seperti ngoding, dan tertarik dengan dunia teknologi, musik, serta seni visual. Saat ini saya sedang fokus mengembangkan skill di bidang web development dan desain. Selain itu, aku juga punya mimpi jadi musisi terkenal kayak pamungkas... aku juga gitaris di band smp ku dan drummer di band smk ku sekarang, dan sebenernya aku tertarik belajar violin🤭</p>
     <h2>Izin spill sedikit hobi boleh lah yaa:</h2>
     <div class="hobbies">
-      <div class="hobby-card">Ngoding</div>
+      <div class="hobby-card">Jogging</div>
       <div class="hobby-card">Musik</div>
-      <div class="hobby-card">Fotografi</div>
+      <div class="hobby-card">Bikin cerita</div>
       <div class="hobby-card">Main Basket</div>
-      <div class="hobby-card">Main Game</div>
+      <div class="hobby-card">Main Game (sangat amat jarang, karena udah bosen)</div>
       <div class="hobby-card">Baca Webtoon</div>
     </div>
 
@@ -143,7 +143,7 @@
   </div>
 
   <footer>
-    &copy; Sekian terimakasih yang sudah berkunjung ke website sayaa😋
+    &copy; ib:@YughaDev
   </footer>
 
   <script>
